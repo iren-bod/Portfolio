@@ -34,4 +34,9 @@
             min-height: 30px;
         }
     }
+    &__social {
+        a:hover {
+            text-decoration: none;
+        }
+    }
 }
